@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560233042392.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2369382550",
+    "id" : "CBAC949B",
+    "lastKnownWriteTime" : 1560233073,
+    "last_content_update" : 1560233073218,
+    "path" : "C:/Users/Muneer.MK/Desktop/firstproject/test.R",
+    "project_path" : "test.R",
+    "properties" : {
+        "cursorPosition" : "0,19",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
